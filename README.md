@@ -46,6 +46,7 @@ Install with:
 
 ```bash
 pip install transformers torch pandas
+```
 
 Example Output
 
